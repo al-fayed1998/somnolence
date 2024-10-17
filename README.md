@@ -39,9 +39,7 @@ pip install playsound
 Utilisation
 
 	1.	Assurez-vous d’avoir une webcam connectée.
-	2.	Exécutez le script de détection de somnolence :
-
-python drowsiness_detection.py
+	2.	Exécutez le script de détection de somnolence : python drowsiness_detection.py
 
 	3.	Le programme analysera les mouvements oculaires en temps réel et déclenchera une alarme sonore en cas de détection de somnolence.
 

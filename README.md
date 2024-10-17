@@ -1,5 +1,3 @@
-Voici un exemple de README.md bien structuré pour ton projet de détection de somnolence :
-
 Somnolence Detection Project
 
 Description
@@ -71,11 +69,6 @@ Le projet a été testé avec plusieurs vidéos de démonstration (beta.mp4, vid
 
 Auteurs
 
-	•	Al-Fayed Usman
+	•	Mouhammad Thahir Ousmane
 	•	Toute contribution future est la bienvenue via des pull requests ou des issues sur le dépôt GitHub.
 
-Licence
-
-Ce projet est sous licence MIT License.
-
-Cela te donne un README bien structuré qui couvre tous les aspects importants de ton projet, notamment la description, l’installation, les bibliothèques nécessaires, l’utilisation, et les fonctionnalités. Il est essentiel de maintenir un README clair pour faciliter la compréhension et la réutilisation de ton projet par d’autres.
